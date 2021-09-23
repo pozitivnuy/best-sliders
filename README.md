@@ -1,3 +1,3 @@
-# best-sliders
-other_site_slider
+# Alternanive-sliders
+Test Slider
 https://pozitivnuy.github.io/best-sliders/
