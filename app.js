@@ -36,3 +36,7 @@ const height = container.clientHeight;
   sidebar.style.transform = `translateY(${activeSlideIndex * height}px)`; 
 
 }
+
+// setTimeout(()=>{
+//   
+// },1000)
