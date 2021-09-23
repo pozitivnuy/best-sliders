@@ -48,6 +48,6 @@ const height = container.clientHeight;
 
 }
 
-// setTimeout(()=>{
-//   
-// },1000)
+setInterval(() => {
+  chaingSlide('up');
+}, 3000);
